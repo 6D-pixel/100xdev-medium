@@ -1,7 +1,4 @@
 {
-    "cSpell.words": [
-        "datasource",
-        "dpixel",
-        "hono"
-    ]
+  "cSpell.words": ["datasource", "dpixel", "hono", "signup", "winnfield"],
+  "reactSnippets.settings.importReactOnTop": false
 }
